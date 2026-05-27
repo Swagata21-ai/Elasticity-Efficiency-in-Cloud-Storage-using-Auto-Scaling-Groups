@@ -1,8 +1,6 @@
 # Elasticity-Efficiency-in-Cloud-Storage-using-Auto-Scaling-Groups
 Elasticity Efficiency in Cloud Storage using AWS Auto Scaling Groups (ASG). This project evaluates static vs dynamic cloud provisioning using AWS EC2, ASG, CloudWatch, ALB, and EBS with multi-metric auto-scaling, self-healing infrastructure, cost-aware elasticity analysis, and Elasticity Efficiency Index (EEI).
 
-# Elasticity Efficiency in Cloud Storage using Auto Scaling Groups (ASG)
-
 ## 📌 Project Overview
 
 This project focuses on evaluating **cloud elasticity efficiency** in storage-intensive environments using **AWS Auto Scaling Groups (ASGs)**. The study compares traditional static cloud provisioning with dynamic ASG-based provisioning using real AWS infrastructure and monitoring services.
